@@ -2059,7 +2059,7 @@ MonoBehaviour:
   order: {fileID: 431035506}
   timeForFoodCunsumption: 2
   timeIntervalBeforeNextOrder: 2
-  customerWaitTime: 2000
+  customerWaitTime: 250
   data:
   - 
   - 
@@ -4818,7 +4818,7 @@ MonoBehaviour:
   order: {fileID: 643632606}
   timeForFoodCunsumption: 2
   timeIntervalBeforeNextOrder: 2
-  customerWaitTime: 2000
+  customerWaitTime: 250
   data:
   - 
   - 
@@ -7447,7 +7447,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   score: 0
   ps: {fileID: 0}
-  playerTime: 240
+  playerTime: 500
   ScoreText: {fileID: 2143353358}
   TimeText: {fileID: 1917297871}
 --- !u!114 &655832353
@@ -8902,7 +8902,7 @@ MonoBehaviour:
   order: {fileID: 1846740507}
   timeForFoodCunsumption: 2
   timeIntervalBeforeNextOrder: 2
-  customerWaitTime: 2000
+  customerWaitTime: 250
   data:
   - 
   - 
@@ -14324,7 +14324,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   score: 0
   ps: {fileID: 0}
-  playerTime: 240
+  playerTime: 500
   ScoreText: {fileID: 1700627672}
   TimeText: {fileID: 176441187}
 --- !u!1 &1381554329
@@ -21322,7 +21322,7 @@ MonoBehaviour:
   order: {fileID: 1808117738}
   timeForFoodCunsumption: 2
   timeIntervalBeforeNextOrder: 2
-  customerWaitTime: 2000
+  customerWaitTime: 250
   data:
   - 
   - 
